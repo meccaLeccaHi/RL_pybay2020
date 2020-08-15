@@ -1,6 +1,6 @@
-<center>
-  <img src="https://pybay.com/site_media/static/new/img/PyBay2020-Transparent.3c44537b6c56.png" width="200" alt="pybay">
-</center>
+<p align="center">
+  <img src="https://pybay.com/site_media/static/new/img/PyBay2020-Transparent.3c44537b6c56.png" width="300" alt="pybay">
+</p>
 
 # Data depulication with Python
 
