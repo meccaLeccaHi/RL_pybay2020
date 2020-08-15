@@ -4,4 +4,4 @@
 
 <h1>Data deduplication with Python</h1>
 
-> <h3><i>Hit me up @ [#talk-data-deduplication-with-python](https://pybay2020.slack.com/archives/C018VEY8DKK)!</i></h3>
+> ### <i>Hit me up @ [#talk-data-deduplication-with-python](https://pybay2020.slack.com/archives/C018VEY8DKK)!</i>
